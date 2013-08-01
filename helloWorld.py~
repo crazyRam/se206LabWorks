@@ -1,7 +1,7 @@
 def my_git_function():
     print("Hello World!")
     print("This is my second line and commit")
-    for i in range(3):
+    for(i=0, i<5, i++)
         print(i)
 
 if __name__ == "__main__":
